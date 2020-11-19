@@ -62,6 +62,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 ### PaaS
 
 - [Clever cloud](https://www.clever-cloud.com/) - Clever Cloud is an IT Automation platform. We manage all the ops work while you focus on your business value :fr:.
+-[Scalingo](https://scalingo.com/) - Scalingo is a high availability Platform as a service ((99.9% SLA)) with an expert support. Our mission is to provide happinness to tech teams by emove the pain of handling servers, application stacks, software dependencies and databases.:fr:.
 
 ### Storage
 
